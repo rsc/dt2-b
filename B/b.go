@@ -1,0 +1,3 @@
+package B
+
+func F() {}
