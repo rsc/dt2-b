@@ -1,3 +1,3 @@
 package B
 
-func F() { panic("B.F") }
+func F() { println("B.F") }
