@@ -1,3 +1,3 @@
 package B
 
-func F() {}
+func F() { panic("B.F") }
